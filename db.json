@@ -1,0 +1,38 @@
+{
+elopTabs:[
+	{
+	  "programId": "1",
+	  "programName": "sample program",
+	  "locations": [
+		{
+		  "locationId": "1",
+		  "locationName": "sample 1",
+		  "corporateElopRequired": true,
+		  "locationSpecificElopRequired": false
+		},{
+		  "locationId": "2",
+		  "locationName": "sample 2",
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
+		}
+	  ]
+	},
+  {
+	  "programId": "2",
+	  "programName": "sample program",
+	  "locations": [
+		{
+		  "locationId": "3",
+		  "locationName": "sample 3",
+		  "corporateElopRequired": true,
+		  "locationSpecificElopRequired": false
+		},{
+		  "locationId": "4",
+		  "locationName": "sample 4",
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
+		}
+	  ]
+	}
+]
+}
