@@ -12,8 +12,8 @@
 		},{
 		  "locationId": "2",
 		  "locationName": "sample 2",
-		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": true
+		  "corporateElopRequired": true,
+		  "locationSpecificElopRequired": false
 		}
 	  ]
 	},
@@ -24,8 +24,8 @@
 		{
 		  "locationId": "3",
 		  "locationName": "sample 3",
-		  "corporateElopRequired": true,
-		  "locationSpecificElopRequired": false
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
 		},{
 		  "locationId": "4",
 		  "locationName": "sample 4",
