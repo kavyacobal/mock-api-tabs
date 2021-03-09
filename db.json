@@ -7,6 +7,16 @@
 		{
 		  "locationId": "1",
 		  "locationName": "Springhill Suites Goodyear - HCW",
+			 "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": null,
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        },
 		  "corporateElopRequired": true,
 		  "locationSpecificElopRequired": false
 		},{
@@ -24,6 +34,16 @@
 		{
 		  "locationId": "3",
 		  "locationName": "sample 3",
+			 "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "city value",
+          "state": "TN",
+          "county": null,
+          "zipCode": "12345",
+          "country": "India"
+        },
 		  "corporateElopRequired": false,
 		  "locationSpecificElopRequired": true
 		},{
