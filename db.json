@@ -54,5 +54,38 @@
 		}
 	  ]
 	}
+],
+"requestDetails":[
+  {
+    "obrUniqueId": "string",
+    "accountNo": "string",
+    "businessName": "string",
+    "supplier": "string",
+    "obRequestStatus": "string",
+    "createdDate": "string",
+    "obrNumber": "OBR-1000002",
+    "parentCompany": "string",
+    "gpoName": "string",
+    "phone": "string",
+    "ext": "string",
+    "classofTradeDesignation": "string",
+    "classofTradeDescription": "string",
+    "vendorComments": "string",
+    "existingAccountNo": "string",
+    "requestType": "pending",
+    "modifiedTimestamp": "2021-03-10T11:39:41.000Z",
+    "nearingSLA": true,
+    "hasReachedSLA": true,
+    "requestQuote": true,
+    "notesAttachments": [
+      {
+        "obrNumber": "string",
+        "privateLabel": true,
+        "title": "string",
+        "notesBody": "string",
+        "attachments": "string"
+      }
+    ]
+  }
 ]
 }
