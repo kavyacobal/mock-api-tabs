@@ -87,5 +87,47 @@
       }
     ]
   }
+],
+"ucaTabs":[
+	{
+	  "programId": "uca-program-1",
+	  "programName": "uca-program-1",
+	  "locations": [
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": true,
+		  "supplierProvidedUCA": false,
+		  "thirdPartyUCA": false
+		},
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": true,
+		  "supplierProvidedUCA": false,
+		  "thirdPartyUCA": false
+		}
+	  ]
+	},
+	{
+	  "programId": "uca-program-2",
+	  "programName": "uca-program-2",
+	  "locations": [
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": false,
+		  "supplierProvidedUCA": true,
+		  "thirdPartyUCA": false
+		},
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": false,
+		  "supplierProvidedUCA": true,
+		  "thirdPartyUCA": false
+		}
+	  ]
+	}
 ]
 }
