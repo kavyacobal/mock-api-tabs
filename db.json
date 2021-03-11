@@ -91,7 +91,7 @@
 "ucaTabs":[
 	{
 	  "programId": "uca-program-1",
-	  "programName": "uca-program-1",
+	  "programName": "program-1",
 	  "locations": [
 		{
 		  "locationId": "",
@@ -111,7 +111,7 @@
 	},
 	{
 	  "programId": "uca-program-2",
-	  "programName": "uca-program-2",
+	  "programName": "program-2",
 	  "locations": [
 		{
 		  "locationId": "",
