@@ -39,33 +39,6 @@
 		}
 	  ]
 	},
-  {
-	  "programId": "2",
-	  "programName": "sample program",
-	  "locations": [
-		{
-		  "locationId": "3",
-		  "locationName": "sample 3",
-			 "locationAddress": {
-          "street1": null,
-          "street2": null,
-          "fullAddress": "test address",
-          "city": "city value",
-          "state": "TN",
-          "county": null,
-          "zipCode": "12345",
-          "country": "India"
-        },
-		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": true
-		},{
-		  "locationId": "4",
-		  "locationName": "sample 4",
-		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": true
-		}
-	  ]
-	}
 ],
 "requestDetails":[
   {
