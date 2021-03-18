@@ -3,6 +3,18 @@
 	{
 	  "programId": "1",
 	  "programName": "American Hotel",
+	"parentLocationName": "Parent Location",
+	"parentLocationId" : "123",
+	"parentLocationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": "parent",
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        }
 	  "locations": [
 		{
 		  "locationId": "1",
