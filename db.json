@@ -29,13 +29,13 @@
           "zipCode": null,
           "country": "United States"
         },
-		  "corporateElopRequired": true,
-		  "locationSpecificElopRequired": false
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
 		},{
 		  "locationId": "2",
 		  "locationName": "sample 2",
-		  "corporateElopRequired": true,
-		  "locationSpecificElopRequired": false
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
 		}
 	  ]
 	}
