@@ -113,6 +113,26 @@
 		  "thirdPartyUCA": false
 		}
 	  ]
+	},
+	{
+	  "programId": "uca-program-3",
+	  "programName": "program-3",
+	  "locations": [
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": false,
+		  "supplierProvidedUCA": false,
+		  "thirdPartyUCA": true
+		},
+		{
+		  "locationId": "",
+		  "locationName": "",
+		  "foodBuyUCARequired": false,
+		  "supplierProvidedUCA": false,
+		  "thirdPartyUCA": true
+		}
+	  ]
 	}
 ],
 "manuSubCategory":[
