@@ -107,9 +107,9 @@
 		},
 		{
 		  "locationId": "",
-		  "locationName": "test-option-2-prg2",
-		  "foodBuyUCARequired": false,
-		  "supplierProvidedUCA": true,
+		  "locationName": "test-option-2",
+		  "foodBuyUCARequired": true,
+		  "supplierProvidedUCA": false,
 		  "thirdPartyUCA": false
 		}
 	  ]
