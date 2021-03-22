@@ -80,16 +80,16 @@
 	  "locations": [
 		{
 		  "locationId": "",
-		  "locationName": "",
+		  "locationName": "test-option-1",
 		  "foodBuyUCARequired": true,
 		  "supplierProvidedUCA": false,
 		  "thirdPartyUCA": false
 		},
 		{
 		  "locationId": "",
-		  "locationName": "",
-		  "foodBuyUCARequired": true,
-		  "supplierProvidedUCA": false,
+		  "locationName": "test-option-2",
+		  "foodBuyUCARequired": false,
+		  "supplierProvidedUCA": true,
 		  "thirdPartyUCA": false
 		}
 	  ]
@@ -100,14 +100,14 @@
 	  "locations": [
 		{
 		  "locationId": "",
-		  "locationName": "",
+		  "locationName": "test-option-3",
 		  "foodBuyUCARequired": false,
-		  "supplierProvidedUCA": true,
-		  "thirdPartyUCA": false
+		  "supplierProvidedUCA": false,
+		  "thirdPartyUCA": true
 		},
 		{
 		  "locationId": "",
-		  "locationName": "",
+		  "locationName": "test-option-2",
 		  "foodBuyUCARequired": false,
 		  "supplierProvidedUCA": true,
 		  "thirdPartyUCA": false
@@ -120,14 +120,14 @@
 	  "locations": [
 		{
 		  "locationId": "",
-		  "locationName": "",
-		  "foodBuyUCARequired": false,
+		  "locationName": "test-option-1",
+		  "foodBuyUCARequired": true,
 		  "supplierProvidedUCA": false,
-		  "thirdPartyUCA": true
+		  "thirdPartyUCA": false
 		},
 		{
 		  "locationId": "",
-		  "locationName": "",
+		  "locationName": "test-option-3",
 		  "foodBuyUCARequired": false,
 		  "supplierProvidedUCA": false,
 		  "thirdPartyUCA": true
