@@ -34,8 +34,8 @@
 		},{
 		  "locationId": "2",
 		  "locationName": "sample 2",
-		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": true
+		  "corporateElopRequired": true,
+		  "locationSpecificElopRequired": false
 		}
 	  ]
 	}
