@@ -30,11 +30,11 @@
           "country": "United States"
         },
 		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": false
+		  "locationSpecificElopRequired": true
 		},{
 		  "locationId": "2",
 		  "locationName": "sample 2",
-		  "corporateElopRequired": true,
+		  "corporateElopRequired": false,
 		  "locationSpecificElopRequired": false
 		}
 	  ]
@@ -69,11 +69,11 @@
           "country": "United States"
         },
 		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": false
+		  "locationSpecificElopRequired": true
 		},{
 		  "locationId": "2",
 		  "locationName": "Kavya",
-		  "corporateElopRequired": true,
+		  "corporateElopRequired": false,
 		  "locationSpecificElopRequired": false
 		}
 	  ]
