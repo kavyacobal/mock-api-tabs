@@ -161,8 +161,8 @@
       }
     ],
     "obrNumber": "OBR-1000000",
-    "foodBuyUCARequired": true,
-    "supplierProvidedUCA": false,
+    "foodBuyUCARequired": false,
+    "supplierProvidedUCA": true,
     "thirdPartyUCA": false
   },
   {
