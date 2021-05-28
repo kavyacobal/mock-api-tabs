@@ -3,9 +3,9 @@
 	{
 	  "programId": "1",
 	  "programName": "American Hotel",
-	"parentLocationName": "Parent Location",
-	"parentLocationId" : "123",
 	"parentLocationAddress": {
+	"locationName": "Parent Location",
+	"locationId" : "123",
           "street1": null,
           "street2": null,
           "fullAddress": "test address",
@@ -42,9 +42,10 @@
 	{
 	  "programId": "2",
 	  "programName": "Bandor",
-	"parentLocationName": "Parent Location 2",
-	"parentLocationId" : "123",
+	
 	"parentLocationAddress": {
+	"locationName": "Parent Location 2",
+	"locationId" : "123",
           "street1": null,
           "street2": null,
           "fullAddress": "test address",
