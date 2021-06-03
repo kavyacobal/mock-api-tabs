@@ -3,9 +3,13 @@
 	{
 	  "programId": "1",
 	  "programName": "American Hotel",
+		"isContactName": true,
+"isContactNumber": true,
+"isEmail": true,
+"isSupplierWaiverForm": true,
 	"parentLocationAddress": {
 	"locationName": "Parent Location",
-	"locationId" : "123",
+	"locationId" : "1111",
           "street1": null,
           "street2": null,
           "fullAddress": "test address",
@@ -42,10 +46,13 @@
 	{
 	  "programId": "2",
 	  "programName": "Bandor",
-	
+	"isContactName": false,
+"isContactNumber": false,
+"isEmail": false,
+"isSupplierWaiverForm": false,
 	"parentLocationAddress": {
 	"locationName": "Parent Location 2",
-	"locationId" : "123",
+	"locationId" : "1111",
           "street1": null,
           "street2": null,
           "fullAddress": "test address",
@@ -74,6 +81,49 @@
 		},{
 		  "locationId": "4",
 		  "locationName": "Kavya",
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": false
+		}
+	  ]
+	},
+	{
+		"programId": "3",
+	  "programName": "Test",
+	"isContactName": true,
+"isContactNumber": false,
+"isEmail": false,
+"isSupplierWaiverForm": true,
+	"parentLocationAddress": {
+	"locationName": "Parent Location 2",
+	"locationId" : "1111",
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": "parent",
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        },
+	  "locations": [
+		{
+		  "locationId": "5",
+		  "locationName": "wonder",
+			 "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test address",
+          "city": "test city",
+          "state": null,
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        },
+		  "corporateElopRequired": false,
+		  "locationSpecificElopRequired": true
+		},{
+		  "locationId": "6",
+		  "locationName": "last",
 		  "corporateElopRequired": false,
 		  "locationSpecificElopRequired": false
 		}
