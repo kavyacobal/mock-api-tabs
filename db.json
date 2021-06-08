@@ -19,6 +19,13 @@
           "zipCode": null,
           "country": "United States"
         },
+		"supplierWaiverContact": {
+      "contactFirstName": "string",
+      "contactLastName": "string",
+      "contactNumber": "string",
+      "contactEmail": "string",
+      "distributorId": "string"
+    },
 	  "locations": [
 		{
 		  "locationId": "1",
@@ -93,6 +100,13 @@
 "isContactNumber": false,
 "isEmail": false,
 "isSupplierWaiverForm": true,
+		"supplierWaiverContact": {
+      "contactFirstName": "string",
+      "contactLastName": "string",
+      "contactNumber": "string",
+      "contactEmail": "string",
+      "distributorId": "string"
+    },
 	"parentLocationAddress": {
 	"locationName": "Parent Location 2",
 	"locationId" : "1111",
