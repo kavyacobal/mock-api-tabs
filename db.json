@@ -100,13 +100,7 @@
 "isContactNumber": false,
 "isEmail": false,
 "isSupplierWaiverForm": true,
-		"supplierWaiverContact": {
-      "contactFirstName": "string",
-      "contactLastName": "string",
-      "contactNumber": "string",
-      "contactEmail": "string",
-      "distributorId": "string"
-    },
+		"supplierWaiverContact": null,
 	"parentLocationAddress": {
 	"locationName": "Parent Location 2",
 	"locationId" : "1111",
