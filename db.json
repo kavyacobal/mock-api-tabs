@@ -259,6 +259,22 @@
         },
         "isCorporateUcaRequired": true,
         "isLocationUcaRequired": false
+      },
+	    {
+        "locationId": "0085ff185-0978-eb11-a812-87397",
+        "locationName": "Supplier",
+        "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "NY, Alaska 124 United States",
+          "city": "NY",
+          "state": "Alaska",
+          "county": null,
+          "zipcode": "333",
+          "country": "United States"
+        },
+        "isCorporateUcaRequired": true,
+        "isLocationUcaRequired": false
       }
     ],
     "obrNumber": "OBR-10003345",
