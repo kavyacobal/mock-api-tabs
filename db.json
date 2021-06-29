@@ -22,8 +22,8 @@
 		"supplierWaiverContact": {
       "contactFirstName": "string",
       "contactLastName": "string",
-      "contactNumber": "string",
-      "contactEmail": "string",
+      "contactNumber": "1234567890",
+      "contactEmail": "test@gmail.com",
       "distributorId": "string"
     },
 	  "locations": [
