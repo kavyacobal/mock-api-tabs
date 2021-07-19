@@ -195,7 +195,7 @@
       },
 {
         "locationId": "4e5ff185-0978-eb11-a812-000d3a597860",
-        "locationName": "Test"
+        "locationName": "Test",
        "locationAddress": {
           "street1": null,
           "street2": null,
