@@ -335,49 +335,5 @@
       "supplierProvidedUCA":true,
       "thirdPartyUCA":false
    }
-],
-"manuSubCategory":[
-  {
-    "displayText": "Air Conditioners/Systems",
-    "subCategoryId": "2ed0ca3e-7aec-ea11-a817-000d3a5bf119"
-  },
-  {
-    "displayText": "Systems",
-    "subCategoryId": "e09059c4-7aec-ea11-a817-000d3a5bf119"
-  },
-  {
-    "displayText": "Air Curtains",
-    "subCategoryId": "32d0ca3e-7aec-ea11-a817-000d3a5bf119"
-  },
-  {
-    "displayText": "Curtains",
-    "subCategoryId": "e19059c4-7aec-ea11-a817-000d3a5bf119"
-  }
-],
-"distSubCategory":[
-  {
-    "displayText": "Administrative NT",
-    "subCategoryId": "8dc6de62-62e4-e911-a994-000d3a328d2e"
-  },
-  {
-    "displayText": "Alcohol",
-    "subCategoryId": "8ec6de62-62e4-e911-a994-000d3a328d2e"
-  },
-  {
-    "displayText": "Apparel Purchase",
-    "subCategoryId": "8fc6de62-62e4-e911-a994-000d3a328d2e"
-  },
-  {
-    "displayText": "Apparel Rental",
-    "subCategoryId": "90c6de62-62e4-e911-a994-000d3a328d2e"
-  },
-  {
-    "displayText": "Armored Car and Security",
-    "subCategoryId": "91c6de62-62e4-e911-a994-000d3a328d2e"
-  },
-  {
-    "displayText": "Bakery",
-    "subCategoryId": "92c6de62-62e4-e911-a994-000d3a328d2e"
-  }
 ]
 }
