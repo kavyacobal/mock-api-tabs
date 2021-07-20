@@ -261,52 +261,6 @@
       "thirdPartyUCA":false
    },
    {
-      "programId":"ed5fc68c-06e6-e911-a985-000d3a18c23c",
-      "programName":"A Top Shelf Staffing Service Inc - NT",
-      "obrStatus":"Initiated",
-      "opportunityId":"7b2ae489-3ce9-eb11-bacb-00224824c664",
-      "locations":[
-         {
-            "locationId":"f64c8a85-c98f-eb11-b1ac-000d3a9a6b3f",
-            "locationName":"Concierge - Kessler CM Florida",
-            "oblStatus":"Initiated",
-            "locationAddress":{
-               "street1":"Arrowhead Avenue Fort Lauderdale",
-               "street2":null,
-               "fullAddress":null,
-               "city":"Orlando",
-               "state":"AL",
-               "county":null,
-               "zipCode":"76654",
-               "country":null
-            },
-            "isCorporateUcaRequired":true,
-            "isLocationUcaRequired":false
-         },
-         {
-            "locationId":"c5d34c1f-a98f-eb11-b1ac-000d3a9ccd38",
-            "locationName":"Concierge - Kessler CM Georgia",
-            "oblStatus":"Initiated",
-            "locationAddress":{
-               "street1":"1245 Alpine Avenue",
-               "street2":null,
-               "fullAddress":null,
-               "city":"Missi",
-               "state":"Georgia",
-               "county":null,
-               "zipCode":"6009",
-               "country":null
-            },
-            "isCorporateUcaRequired":true,
-            "isLocationUcaRequired":false
-         }
-      ],
-      "obrNumber":"OBR-001213",
-      "foodBuyUCARequired":true,
-      "supplierProvidedUCA":false,
-      "thirdPartyUCA":false
-   },
-   {
       "programId":"da54b094-06e6-e911-a987-000d3a18c732",
       "programName":"Abbott Nutrition - Central Arizona Warehouse",
       "obrStatus":"Credit App Pending",
