@@ -156,7 +156,7 @@
           "zipcode": "124",
           "country": "United States"
         },
-	"oblStatus":"credit app",
+	"oblStatus":"credit app Pending",
         "isCorporateUcaRequired": true,
         "isLocationUcaRequired": false
       },
@@ -173,7 +173,7 @@
           "zipcode": "334",
           "country": "United States"
         },
-	    "oblStatus":"Credit App ",
+	    "oblStatus":"Credit App Pending",
         "isCorporateUcaRequired": true,
         "isLocationUcaRequired": false
       }
