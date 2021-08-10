@@ -276,11 +276,11 @@
         "isLocationUcaRequired": false
       }
     ],
-    "obrNumber": "OBR-1000000",
+    "obrNumber": "OBR-100088",
     "foodBuyUCARequired": false,
     "supplierProvidedUCA": false,
     "thirdPartyUCA": true
-  },
+  }
 ],
 "manuSubCategory":[
   {
