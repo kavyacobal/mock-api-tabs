@@ -31,8 +31,8 @@
 		  "locationId": "1",
 		  "locationName": "Springhill Suites Goodyear - HCW",
 			 "locationAddress": {
-          "street1": null,
-          "street2": null,
+          "street1": "123",
+          "street2": "address",
           "fullAddress": "test address",
           "city": "test city",
           "state": null,
