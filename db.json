@@ -10,8 +10,8 @@
 	"parentLocationAddress": {
 	"locationName": "Parent Location",
 	"locationId" : "1111",
-          "street1": null,
-          "street2": null,
+          "street1": "test",
+          "street2": "this address",
           "fullAddress": "test address",
           "city": "test city",
           "state": "parent",
