@@ -75,7 +75,7 @@
 		  "locationId": "3",
 		  "locationName": "Hill tree",
 			 "locationAddress": {
-          "street1": null,
+          "street1": "test",
           "street2": null,
           "fullAddress": "test address",
           "city": "test city",
