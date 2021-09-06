@@ -23,7 +23,7 @@
       "contactFirstName": "string",
       "contactLastName": "string",
       "contactNumber": "1234567890",
-      "contactEmail": "test@gmail.com",
+      "contactEmail": null,
       "distributorId": "string"
     },
 	  "locations": [
