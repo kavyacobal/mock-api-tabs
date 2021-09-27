@@ -85,7 +85,7 @@
           "country": "United States"
         },
 		  "corporateElopRequired": false,
-		  "locationSpecificElopRequired": true,
+		  "locationSpecificElopRequired": false,
 			"locationSpecificFederalId":"436437"
 		},{
 		  "locationId": "4",
