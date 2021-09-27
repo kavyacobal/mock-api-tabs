@@ -72,8 +72,8 @@
         },
 	  "locations": [
 		{
-		  "locationId": "3",
-		  "locationName": "Hill tree",
+		  "locationId": "1",
+		  "locationName": "Springhill Suites Goodyear - HCW",
 			 "locationAddress": {
           "street1": "test",
           "street2": null,
