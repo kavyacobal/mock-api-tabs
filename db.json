@@ -254,8 +254,8 @@
     ],
     "obrNumber": "OBR-10003345",
     "foodBuyUCARequired": false,
-    "supplierProvidedUCA": false,
-    "thirdPartyUCA": true
+    "supplierProvidedUCA": true,
+    "thirdPartyUCA": false
   },
 	{
     "programId": "0083845d-21e5-e911-a985-000d3a328266",
